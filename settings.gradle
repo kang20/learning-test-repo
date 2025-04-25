@@ -1,1 +1,6 @@
 rootProject.name = 'test-practice'
+
+
+
+include(':java-async-test')
+include(':spring-kafka-test')
